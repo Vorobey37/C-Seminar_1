@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\Square_number\bin\Debug\net6.0\Square_number.exe
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\Square_number\bin\Debug\net6.0\Square_number.deps.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\Square_number\bin\Debug\net6.0\Square_number.runtimeconfig.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\Square_number\bin\Debug\net6.0\Square_number.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\Square_number\bin\Debug\net6.0\Square_number.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\Square_number\obj\Debug\net6.0\Square_number.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\Square_number\obj\Debug\net6.0\Square_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\Square_number\obj\Debug\net6.0\Square_number.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\Square_number\obj\Debug\net6.0\Square_number.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\Square_number\obj\Debug\net6.0\Square_number.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\Square_number\obj\Debug\net6.0\Square_number.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\Square_number\obj\Debug\net6.0\refint\Square_number.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\Square_number\obj\Debug\net6.0\Square_number.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\Square_number\obj\Debug\net6.0\Square_number.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\Square_number\obj\Debug\net6.0\ref\Square_number.dll
