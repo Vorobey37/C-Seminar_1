@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\Square_verification\bin\Debug\net6.0\Square_verification.exe
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\Square_verification\bin\Debug\net6.0\Square_verification.deps.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\Square_verification\bin\Debug\net6.0\Square_verification.runtimeconfig.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\Square_verification\bin\Debug\net6.0\Square_verification.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\Square_verification\bin\Debug\net6.0\Square_verification.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\Square_verification\obj\Debug\net6.0\Square_verification.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\Square_verification\obj\Debug\net6.0\Square_verification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\Square_verification\obj\Debug\net6.0\Square_verification.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\Square_verification\obj\Debug\net6.0\Square_verification.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\Square_verification\obj\Debug\net6.0\Square_verification.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\Square_verification\obj\Debug\net6.0\Square_verification.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\Square_verification\obj\Debug\net6.0\refint\Square_verification.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\Square_verification\obj\Debug\net6.0\Square_verification.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\Square_verification\obj\Debug\net6.0\Square_verification.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\Square_verification\obj\Debug\net6.0\ref\Square_verification.dll
