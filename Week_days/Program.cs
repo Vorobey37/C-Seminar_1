@@ -3,9 +3,10 @@
 Console.Clear();
 Console.WriteLine("Введите номер: ");
 int a = int.Parse(Console.ReadLine());
-if (a<1||a>7)
-{Console.WriteLine($"{a} - Дней в неделе всего семь!!!");
-return; // return для того, чтобы выйти из программы
+while (a<1||a>7)
+{Console.WriteLine("Дней в неделе всего семь!!!");
+Console.WriteLine("Введите правильный номер!: ");
+a = int.Parse(Console.ReadLine());
 }
 if (a==1)
 {Console.WriteLine($"{a} - это понедельник!");}
