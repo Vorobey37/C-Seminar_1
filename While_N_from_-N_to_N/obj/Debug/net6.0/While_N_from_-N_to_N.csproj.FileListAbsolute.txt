@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\While_N_from_-N_to_N\bin\Debug\net6.0\While_N_from_-N_to_N.exe
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\While_N_from_-N_to_N\bin\Debug\net6.0\While_N_from_-N_to_N.deps.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\While_N_from_-N_to_N\bin\Debug\net6.0\While_N_from_-N_to_N.runtimeconfig.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\While_N_from_-N_to_N\bin\Debug\net6.0\While_N_from_-N_to_N.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\While_N_from_-N_to_N\bin\Debug\net6.0\While_N_from_-N_to_N.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\While_N_from_-N_to_N\obj\Debug\net6.0\While_N_from_-N_to_N.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\While_N_from_-N_to_N\obj\Debug\net6.0\While_N_from_-N_to_N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\While_N_from_-N_to_N\obj\Debug\net6.0\While_N_from_-N_to_N.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\While_N_from_-N_to_N\obj\Debug\net6.0\While_N_from_-N_to_N.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\While_N_from_-N_to_N\obj\Debug\net6.0\While_N_from_-N_to_N.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\While_N_from_-N_to_N\obj\Debug\net6.0\While_N_from_-N_to_N.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\While_N_from_-N_to_N\obj\Debug\net6.0\refint\While_N_from_-N_to_N.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\While_N_from_-N_to_N\obj\Debug\net6.0\While_N_from_-N_to_N.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\While_N_from_-N_to_N\obj\Debug\net6.0\While_N_from_-N_to_N.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_1\While_N_from_-N_to_N\obj\Debug\net6.0\ref\While_N_from_-N_to_N.dll
